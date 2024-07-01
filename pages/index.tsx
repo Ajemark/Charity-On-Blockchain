@@ -1673,7 +1673,7 @@ const Home: NextPage = () => {
             </div>
           </footer>
         </main>
-        <script src="src/index.js"></script>
+        {/* <script src="src/index.js"></script> */}
       </div>
 
       {/* <footer className="">
